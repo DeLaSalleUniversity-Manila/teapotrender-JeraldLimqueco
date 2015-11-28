@@ -18,7 +18,13 @@ Getting Started
 
 Screenshots
 -----------
-![screenshot](screenshot.png)
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/teapotrender-JeraldLimqueco/blob/master/device-2015-11-28-115729.png)
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/teapotrender-JeraldLimqueco/blob/master/device-2015-11-28-115747.png)
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/teapotrender-JeraldLimqueco/blob/master/device-2015-11-28-115704.png)
+
+Video Capture
+-----------
+(https://www.youtube.com/watch?v=X4nVgetBrGc)
 
 Support
 -------
